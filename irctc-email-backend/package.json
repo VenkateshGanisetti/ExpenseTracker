@@ -1,0 +1,24 @@
+{
+  "name": "irctc-email-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "html-to-text": "^9.0.5",
+    "imap": "^0.8.17",
+    "imap-simple": "^1.6.3",
+    "mailparser": "^3.7.1",
+    "mongoose": "^8.6.3",
+    "nodemailer": "^6.9.15",
+    "nodemon": "^3.1.7"
+  }
+}
